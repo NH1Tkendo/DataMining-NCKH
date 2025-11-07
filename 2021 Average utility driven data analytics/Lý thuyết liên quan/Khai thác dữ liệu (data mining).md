@@ -1,0 +1,1 @@
+Là quá trình khám phá các dữ kiện quan trọng từ một nguồn dữ liệu khổng lồ.

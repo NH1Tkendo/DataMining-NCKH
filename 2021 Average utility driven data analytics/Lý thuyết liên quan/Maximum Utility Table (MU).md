@@ -1,0 +1,3 @@
+**Định nghĩa:** MU table là một bảng lưu trữ tiện ích tối đa của từng giao dịch trong cơ sở dữ liệu. Nó ghi lại giá trị tiện ích lớn nhất (maximum utility) mà một mục (item) có thể có trong mỗi giao dịch cụ thể.​
+
+**Mục đích:** MU table được sử dụng để hỗ trợ quá trình tái cấu trúc dAList và dUB table. Khi có dữ liệu mới được chèn vào cơ sở dữ liệu động, MU table được cập nhật để phản ánh những thay đổi này, giúp duy trì tính chính xác của việc tính toán các giá trị cắt tỉa
