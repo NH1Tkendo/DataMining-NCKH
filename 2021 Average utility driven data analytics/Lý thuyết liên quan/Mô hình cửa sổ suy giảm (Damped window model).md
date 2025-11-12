@@ -1,0 +1,6 @@
+Mô hình này được đề xuất để xử lý dữ liệu nhạy cảm với thời gian trong một môi trường dữ liệu được cập nhật theo thời gian thực. Độ quan trọng của một item qua thời gian được phản ánh bằng một hệ số suy giảm (decay factor). Hệ số suy giảm có giá trị giữa 0 và 1, đại diện cho mũ của hiệu số thời gian giữa thời điểm đến của dữ liệu mới nhất được nhập vào và thời điểm đến của dữ liệu mục tiêu. Do đó, quãng thời gian đến của hai dữ liệu khác nhau càng lớn,  giá trị của hệ số suy giảm càng thấp. Điều này có nghĩa là một mẫu ít quan trọng hơn mẫu mới nhất nếu nó được bao gồm trong giao dịch cũ. 
+
+* GENHUI là một cách tiếp cận sử dụng mô hình cửa sổ suy giảm cho khai thác mẫu tiện ích cao. 
+* [[MPM (Mining of high average-utility Patterns with damped window Model)]] là một phương pháp khai thác mẫu tiện ích trung bình cao sử dụng mô hình cửa sổ suy giảm
+
+Cả 2 thuật toán này đều tạo ứng cử viên -> chúng tốn thêm thời gian chạy để phân loại ứng cử viên. Thêm vào đó, chúng cũng tiêu tốn nhiều bộ nhớ vì chúng lưu trữ toàn bộ thông tin trong cơ sở dữ liệu vào một cấu trúc dạng cây.

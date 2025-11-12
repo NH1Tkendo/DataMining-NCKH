@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87b851b12bc83f44",
+        "id": "de13a3bd196af331",
         "type": "tabs",
         "children": [
           {
-            "id": "30eab79b9f62a454",
+            "id": "4d2f86306df8f182",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 249.5
   },
   "right": {
     "id": "2500fa99f67529a9",
@@ -169,18 +169,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "30eab79b9f62a454",
+  "active": "4d2f86306df8f182",
   "lastOpenFiles": [
-    "Lý thuyết liên quan/dA-List (Damped Average-utility List).md",
-    "Lý thuyết liên quan/Damped Upper-Bound Table (dUB).md",
-    "Lý thuyết liên quan/Maximum Utility Table (MU).md",
+    "Lý thuyết liên quan/MaximumRemainingUtility.png",
     "Tóm tắt bài báo.md",
-    "Lý thuyết liên quan/Damped Mining for Average Utility Pattern (DMAUP).md",
-    "Lý thuyết liên quan/Mô hình cửa sổ suy giảm.md",
-    "Lý thuyết liên quan/Mô hình cửa sổ trượt.md",
-    "Lý thuyết liên quan/Khai thác dữ liệu (data mining).md",
-    "Lý thuyết liên quan/Cơ sở dữ liệu động.md",
+    "Lý thuyết liên quan/Damped Upper-bound.png",
+    "Lý thuyết liên quan/DampedAverageUtility.png",
+    "Lý thuyết liên quan/DecayingFactor.png",
+    "Lý thuyết liên quan/AverageUtilityUpperBound.png",
+    "Lý thuyết liên quan/MaximumUtility.png",
+    "Lý thuyết liên quan/MinimumAverageUtility.png",
+    "Lý thuyết liên quan/AverageUtility.png",
+    "Lý thuyết liên quan/TransactionUtility.png",
+    "Lý thuyết liên quan/ItemUtility.png",
+    "Lý thuyết liên quan/Mô hình cửa sổ suy giảm (Damped window model).md",
+    "Lý thuyết liên quan/MPM (Mining of high average-utility Patterns with damped window Model).md",
+    "Lý thuyết liên quan/Khai thác mẫu tiện ích trung bình cao (High average utility pattern mining).md",
+    "Lý thuyết liên quan/IMHAUI (Incremental Mining of High Average-Utility Itemsets).md",
+    "Lý thuyết liên quan/ITPAU (Incremental Two-Phase Average Utility mining).md",
+    "Lý thuyết liên quan/dHAUIM (Damped High Average Utility Itemset Mining).md",
+    "Lý thuyết liên quan/MHAI (Mining High Average-utility Itemsets).md",
+    "Lý thuyết liên quan/HAUI-Miner (High Average Utility Itemset Miner).md",
+    "Lý thuyết liên quan/HAUI-tree (High Average Utility Itemset tree).md",
+    "Lý thuyết liên quan/PBAU (Projection-Based Average Utility mining).md",
+    "Lý thuyết liên quan/TPAU (Two-Phase Average Utility mining).md",
+    "Lý thuyết liên quan/Khai thác mẫu hiệu suất cao ( High utility pattern mining).md",
+    "Lý thuyết liên quan/IIHUM (Indexed Incremental High Utility Mining).md",
+    "Lý thuyết liên quan/LIHUP (List-based Incremental High Utility Pattern mining).md",
+    "Lý thuyết liên quan/HUPID (High Utility Pattern mining in Incremental Databases).md",
+    "Lý thuyết liên quan/IHUP.md",
+    "Lý thuyết liên quan/FIUM (Fast Incremental Utility Mining).md",
+    "Lý thuyết liên quan/IUM (Incremental Utility Mining).md",
+    "Lý thuyết liên quan/IMHUP (Improved Mining of High Utility Patterns).md",
+    "Lý thuyết liên quan/HUI-Miner.md",
+    "Lý thuyết liên quan/Tăng trưởng mẫu tiện ích (Utility Pattern Growth).md",
+    "Lý thuyết liên quan/Tiện ích trọng số giao dịch (Transaction Weighted Utilization - TWU).md",
     "Lý thuyết liên quan/Cắt tỉa (Pruning).md",
+    "Lý thuyết liên quan/Tính chất phản đơn điệu (Antimonotone).md",
     "Lý thuyết liên quan"
   ]
 }

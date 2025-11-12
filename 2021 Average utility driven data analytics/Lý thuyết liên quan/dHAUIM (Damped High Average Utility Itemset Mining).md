@@ -1,0 +1,1 @@
+dHAUIM là thuật toán áp dụng kỹ thuật khai phá dọc (vertical mining method) và cải thiện thời gian chạy cũng như sử dụng bộ nhớ bằng cách áp dụng bốn cận trên trung bình chặt chẽ (four tight average upper-bounds) và cấu trúc cây IDUL mới. Thuật toán này được thiết kế để khai phá các mẫu tiện ích trung bình cao một cách hiệu quả hơn các phương pháp trước đó

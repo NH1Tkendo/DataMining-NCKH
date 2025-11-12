@@ -1,0 +1,3 @@
+IUM là thuật toán Apriori-like được đề xuất để khai phá các tập mục tiện ích cao (high utility itemsets) từ cơ sở dữ liệu tăng trưởng. IUM và FIUM (Fast IUM) được thiết kế để xử lý môi trường động, nơi dữ liệu được thêm vào liên tục.​
+
+**Đặc điểm:** IUM quét cơ sở dữ liệu nhiều lần và tạo ra một số lượng lớn các mẫu ứng viên do áp dụng framework giống Apriori. Đây là một trong những hạn chế chính của thuật toán này so với các phương pháp dựa trên cây (tree-based) hoặc danh sách (list-based) hiện đại hơn.

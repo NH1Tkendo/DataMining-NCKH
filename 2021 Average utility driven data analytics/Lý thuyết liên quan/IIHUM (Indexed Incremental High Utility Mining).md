@@ -1,0 +1,1 @@
+IIHUM là thuật toán sử dụng cấu trúc indexed list (danh sách được đánh chỉ mục) để khai phá các mẫu tiện ích cao mà không tạo ra các mẫu ứng viên trong môi trường động. IIHUM được thiết kế để xử lý cơ sở dữ liệu tăng trưởng với hiệu suất cao hơn các thuật toán trước đó như IUM, FIUM, IHUP và HUPID

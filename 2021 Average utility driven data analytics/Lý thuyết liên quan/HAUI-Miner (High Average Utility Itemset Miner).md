@@ -1,0 +1,1 @@
+HAUI-Miner là thuật toán dựa trên danh sách (list-based) sử dụng cấu trúc AU-list (Average-Utility List) để khai phá các mẫu tiện ích trung bình cao (high average-utility itemsets). HAUI-Miner áp dụng hai cận trên là AUUB (average-utility upper-bound) và TMU (transaction maximum utility) để giảm không gian tìm kiếm và không tạo ra các mẫu ứng viên trong quá trình khai phá.

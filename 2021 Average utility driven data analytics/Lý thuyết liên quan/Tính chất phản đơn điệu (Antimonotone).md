@@ -1,0 +1,1 @@
+Nếu một tập mục (itemset) vi phạm một ràng buộc, thì tất cả các tập con mở rộng (supersets) của nó cũng sẽ vi phạm ràng buộc đó

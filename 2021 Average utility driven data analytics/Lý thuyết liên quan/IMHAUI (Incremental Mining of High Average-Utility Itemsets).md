@@ -1,0 +1,1 @@
+IMHAUI là thuật toán dựa trên cây (tree-based) để khai phá các mẫu tiện ích trung bình cao từ cơ sở dữ liệu tăng trưởng (incremental databases). IMHAUI chỉ quét cơ sở dữ liệu một lần và áp dụng quy trình tái cấu trúc để phản ánh dữ liệu mới được chèn vào và phản ứng với môi trường động. Tuy nhiên, IMHAUI vẫn tạo ra các mẫu ứng viên (candidate patterns) trong quá trình khai phá

@@ -1,0 +1,1 @@
+PBAU là thuật toán dựa trên cây (tree-based) được đề xuất để khai phá các mẫu tiện ích trung bình cao (high average-utility itemsets). PBAU sử dụng cấu trúc cây và cho thấy thời gian chạy nhanh hơn và sử dụng bộ nhớ ít hơn so với TPAU. Tuy nhiên, PBAU vẫn có nhược điểm là cần có quy trình để tạo và xác nhận các mẫu ứng viên (candidate patterns)

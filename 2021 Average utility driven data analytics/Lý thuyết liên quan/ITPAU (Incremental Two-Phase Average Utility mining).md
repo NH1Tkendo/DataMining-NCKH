@@ -1,0 +1,1 @@
+ITPAU là thuật toán cải tiến của TPAU để hoạt động trong cơ sở dữ liệu động (incremental databases). ITPAU áp dụng kỹ thuật quét một lần (one-scan technique), chỉ đọc dữ liệu mới được chèn vào và lưu trữ các mẫu ứng viên vào cấu trúc dữ liệu riêng biệt. Tuy nhiên, ITPAU vẫn tạo ra các mẫu ứng viên (candidate patterns) trong quá trình khai phá
