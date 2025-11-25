@@ -116,3 +116,7 @@ Các ý chính:
 ![[MaximumRemainingUtility.png]]
 
 **Định nghĩa 13:**  Maximum number of the remaining items
+
+
+Quá trình thực hiện DMAUP
+Bước 1:  Bắt đầu từ dA-List đầu tiên. Xét dAL(P) -> Tính dau(P) nếu < minAU không là mẫu tiện ích trung bình cao gần nhất. Ngược lại thì là mẫu tiện ích trung bình cao gần nhất
