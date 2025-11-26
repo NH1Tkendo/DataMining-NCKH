@@ -6,9 +6,29 @@
       {
         "id": "de13a3bd196af331",
         "type": "tabs",
+        "dimension": 54.31164901664145,
         "children": [
           {
             "id": "d3bc6ac0762ffa30",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "1-s2.0-S0957417425040059-main.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1-s2.0-S0957417425040059-main"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6964916c33ae6f63",
+        "type": "tabs",
+        "dimension": 45.68835098335855,
+        "children": [
+          {
+            "id": "e3b37a6c89dd654d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -151,6 +171,20 @@
               "icon": "lucide-list",
               "title": "Outline of Tóm tắt bài báo"
             }
+          },
+          {
+            "id": "85695333b183c85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "An Efficient Algorithm for High Average-Efficiency Itemset Mining over Data Streams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "An Efficient Algorithm for High Average-Efficiency Itemset Mining over Data Streams"
+            }
           }
         ]
       }
@@ -170,21 +204,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3bc6ac0762ffa30",
+  "active": "e3b37a6c89dd654d",
   "lastOpenFiles": [
+    "1-s2.0-S0957417425040059-main.pdf",
+    "An Efficient Algorithm for High Average-Efficiency Itemset Mining over Data Streams.md",
+    "Pasted image 20251126201107.png",
+    "Pasted image 20251126201053.png",
+    "Pasted image 20251126142529.png",
+    "Pasted image 20251126131036.png",
     "Pasted image 20251125140939.png",
     "Pasted image 20251125135819.png",
     "Pasted image 20251125135800.png",
     "2021 Average Utility Driven Data Analytics.md",
-    "An Efficient Algorithm for High Average-Efficiency Itemset Mining over Data Streams.md",
     "Lý thuyết liên quan/MaximumRemainingUtility.png",
     "Lý thuyết liên quan/Damped Upper-bound.png",
     "Lý thuyết liên quan/DampedAverageUtility.png",
-    "Lý thuyết liên quan/DecayingFactor.png",
-    "Lý thuyết liên quan/AverageUtilityUpperBound.png",
-    "Lý thuyết liên quan/MaximumUtility.png",
-    "Lý thuyết liên quan/MinimumAverageUtility.png",
-    "Lý thuyết liên quan/AverageUtility.png",
     "Lý thuyết liên quan/Mô hình cửa sổ suy giảm (Damped window model).md",
     "Lý thuyết liên quan/MPM (Mining of high average-utility Patterns with damped window Model).md",
     "Lý thuyết liên quan/Khai thác mẫu tiện ích trung bình cao (High average utility pattern mining).md",
